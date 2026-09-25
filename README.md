@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bousseif</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Business+Operations+%26+AI+Automation+Specialist&center=true&width=650&height=40&color=58A6FF&vCenter=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Business+Operations+%26+AI+Automation+Specialist&center=true&width=800&height=40&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 ---
@@ -15,14 +15,15 @@
 
 ---
 
-### 🌱 AI moves fast enough that standing still isn't really an option. I treat learning as part of the work, not separate from it...
+### 🌱 Always learning
+AI moves fast enough that standing still isn't really an option. I treat learning as part of the work, not separate from it.
+
 ---
 
 <p align="left">
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
 <img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" />
-<img src="https://img.shields.io/badge/MCP-grey?style=flat-square" />
 <img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 </p>
@@ -33,4 +34,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bbehnass&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
 </p>
 
-🎮 Outside of this: gaming.
+🎮 When I'm not automating things, I'm losing to a video game I insist I'm good at.
