@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Bousseif</h1>
 
-<!--
-**bbehnass/bbehnass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Business+Operations+%26+AI+Automation+Specialist&center=true&width=650&height=40&color=58A6FF&vCenter=true" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 AI-driven automation, tailored to the process — voice agents, workflows, whatever the use case needs
+- 🧪 QA systems that test and improve AI outputs automatically, not manually
+- 🔁 Automation that isn't glued to one CRM, one tool, one anything
+- 💼 Commercial background — value and adoption come before technology
+- 🧩 Vibe-coder — logic and outcome are mine, AI handles the syntax
+- 🤝 Internal AI adoption — training, troubleshooting, and the "does this actually work" conversations
+
+---
+
+### 🌱 AI moves fast enough that standing still isn't really an option. I treat learning as part of the work, not separate from it...
+---
+
+<p align="left">
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logo=elevenlabs&logoColor=white" />
+<img src="https://img.shields.io/badge/MCP-grey?style=flat-square" />
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bbehnass&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub stats" />
+</p>
+
+🎮 Outside of this: gaming.
