@@ -15,6 +15,14 @@
 
 ---
 
+### 🛠️ Projects
+
+- **[voiceops-n8n](https://github.com/bbehnass/voiceops-n8n)** — n8n workflows for running outbound AI voice agents in production: dialling, outcomes back in the CRM, retries, KPIs, and a QA loop that suggests prompt fixes. Works with any CRM, rebrandable. [▶️ Live demo](https://bbehnass.github.io/voiceops-n8n/dashboard/)
+- **[elevenagents-qa](https://github.com/bbehnass/elevenagents-qa)** — a small Python CLI that pulls an agent's recent calls, has Claude score each one, and tells you what to change in the prompt. `--demo` runs with no setup.
+- **[kraken-micro-scalper](https://github.com/bbehnass/kraken-micro-scalper)** — side project. A rule-based crypto trading bot in n8n, no AI in the buy/sell calls. Still being debugged, and the README says why.
+
+---
+
 ### 🌱 Always learning
 AI moves fast enough that standing still isn't really an option. I treat learning as part of the work, not separate from it.
 
